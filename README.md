@@ -1,5 +1,7 @@
 > ### Hello guys, i'm Ushio from :brazil:
 
+![my-current-life](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=26a5e4&labelColor=dddddd)](https://t.me/ushioichi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dddddd?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&labelColor=0A66C2)](https://linkedin/in/jose-lucio-br) 
 [![YTmusic](https://img.shields.io/badge/Youtube%20Music-FF0000?style=for-the-badge&logo=Youtube-Music&logoColor=ff0000&labelColor=1c1c1c)](https://music.youtube.com/jose_lucio_br) 
@@ -46,3 +48,5 @@
   ![Kingston](https://img.shields.io/badge/Kingston-dddddd?style=for-the-badge&logo=Kingston-Technology&logoColor=E31E20&labelColor=111111)
   
 </details>
+
+![my-eternal-love](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtqdHBwa2ljZjFlNDcyZm5ubWd4MDE4cDRkdXV4ZnF1bzA3NjY3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbJLRzpp3Jzxe/giphy.webp)
