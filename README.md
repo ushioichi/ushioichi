@@ -3,10 +3,7 @@
 ![my-current-life](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=26a5e4&labelColor=dddddd)](https://t.me/ushioichi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dddddd?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&labelColor=0A66C2)](https://linkedin/in/jose-lucio-br) 
 [![YTmusic](https://img.shields.io/badge/Youtube%20Music-FF0000?style=for-the-badge&logo=Youtube-Music&logoColor=ff0000&labelColor=1c1c1c)](https://music.youtube.com/jose_lucio_br) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=bd081c&labelColor=dddddd)](https://pinterest.com/jose_lucio_br) 
-[![Instagram](https://img.shields.io/badge/Instagram-e12a4c?style=for-the-badge&logo=Instagram&logoColor=e12a4c&labelColor=dddddd)](https://instagram.com/jose_lucio_br)
 
 <details>
   <summary>Languages</summary>
