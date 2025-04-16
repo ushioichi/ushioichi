@@ -48,5 +48,3 @@
   ![Kingston](https://img.shields.io/badge/Kingston-dddddd?style=for-the-badge&logo=Kingston-Technology&logoColor=E31E20&labelColor=111111)
   
 </details>
-
-![my-eternal-love](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtqdHBwa2ljZjFlNDcyZm5ubWd4MDE4cDRkdXV4ZnF1bzA3NjY3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbJLRzpp3Jzxe/giphy.webp)
