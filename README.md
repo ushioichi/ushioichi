@@ -1,5 +1,3 @@
-> ### Hello guys, i'm Ushio from :brazil:
-
 ![my-current-life](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=26a5e4&labelColor=dddddd)](https://t.me/ushioichi) 
