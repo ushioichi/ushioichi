@@ -19,9 +19,8 @@
   
   ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom%20Mobile-000080?style=for-the-badge&logo=Adobe-Lightroom&logoColor=0080fe) 
   ![Duolingo](https://img.shields.io/badge/Duolingo-34B401?style=for-the-badge&logo=Duolingo&logoColor=34B401&labelColor=dddddd)
-  ![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0080fe?style=for-the-badge) 
-  ![NextDNS](https://img.shields.io/badge/NextDNS-131e3a?style=for-the-badge&logo=NextDNS&logoColor=008ecc) 
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare%20DNS-221E68?style=for-the-badge&logo=1.1.1.1&logoColor=F38020)
+  ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=2F80ED&labelColor=dddddd) 
+  ![NextDNS](https://img.shields.io/badge/NextDNS-131e3a?style=for-the-badge&logo=NextDNS&logoColor=008ecc)
   ![uBlock](https://img.shields.io/badge/uBlock%20Origin-800000?style=for-the-badge&logo=uBlock-Origin&logoColor=800000&labelColor=dddddd) 
 
 </details>
@@ -29,7 +28,7 @@
 <details>
   <summary>Systems</summary>
   
-  ![Debian 12](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=Debian&logoColor=ffffff) 
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=ffffff) 
   ![XFCE](https://img.shields.io/badge/XFCE-dddddd?style=for-the-badge&logo=XFCE&logoColor=000000&labelColor=2fa0fe) 
   ![Android](https://img.shields.io/badge/android-dddddd?style=for-the-badge&logo=Android&logoColor=24af59&labelColor=111111)
 
